@@ -5,7 +5,7 @@
 </ul><ul>
 <li>Landing Page ,smooth scrolling ,cool UI</li>
 </ul><ul>
-<li>Project Demo: https://click777777.github.io/Morden-Bank/</li>
+<li>Project Demo: https://morden-bank.vercel.app/</li>
 </ul><h2>Technologies Used</h2>
 <hr><ul>
 <li>HTML</li>
